@@ -82,4 +82,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 
-<p align="center"><img src="https://i.kinja-img.com/gawker-media/image/upload/s--yuEnPUPF--/c_scale,f_auto,fl_progressive,q_80,w_800/e9qeogwcvja28sxtp4ze.png" title="planets"></p>
+<p align="center"><img src="https://zdnet2.cbsistatic.com/hub/i/2017/10/30/ff180e61-bec6-4732-a1bd-22a594edf839/277c3978836443421a4ae3e115f303fa/arm-iot.jpg" width=350 title="iot"></p>
