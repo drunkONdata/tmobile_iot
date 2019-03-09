@@ -1,7 +1,6 @@
 ![Header](header.png)
 
-# Curieosity
-## Radioactive Source Tracking in the Oil Field
+## Curieosity: Radioactive Source Tracking in the Oil Field
 
 ### Motivation:
 
