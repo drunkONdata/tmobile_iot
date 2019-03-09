@@ -53,17 +53,12 @@ Radioactive material transport is a major security concern. Utilizing an Arduino
 * Engage national and international agencies for greater nuanced understanding of metrics and KPIs that matter to their operations, planning, and policy making.
 * Aggregate transportation data to build a more robust time series forecast
 * Incorporating additional data to enhance machine learning platform
-* Develop app that governments and NGOS can use to allocate resources and develop resonse plans
+* Develop app that governments and industry partners can use to allocate resources and develop resonse plans
 
 ### Additional Background
 
 With so much radioactive material in use worldwide, it is routinely lost or
-stolen. The theft near Mexico City in December 2013 of a truck carrying a cobalt-60 teletherapy machine is the most well-known recent example. It involved a radioactive source particularly well-suited to use in an RDD. But it is important to understand how any type of nuclear or other radioactive material requiring control has left regulatory control. Whether the loss of control is due to an intentional criminal act or
-negligence, each incident has some nuclear security impact, because: (1) the associated materials are
-now hypothetically available for unauthorized purposes, including criminal or terrorist acts; and (2) the
-circumstances surrounding loss of control over the materials may illuminate gaps in the global nuclear
-security architecture that could alert policymakers, regulators, law enforcement, and other relevant
-authorities, and enable them to take corrective actions to prevent more serious diversion of materials.
+stolen. The theft near Mexico City in December 2013 of a truck carrying a cobalt-60 teletherapy machine is the most well-known recent example. It involved a radioactive source particularly well-suited to use in an RDD. But it is important to understand how any type of nuclear or other radioactive material requiring control has left regulatory control. Whether the loss of control is due to an intentional criminal act or negligence, each incident has some nuclear security impact, because: (1) the associated materials are now hypothetically available for unauthorized purposes, including criminal or terrorist acts; and (2) the circumstances surrounding loss of control over the materials may illuminate gaps in the global nuclear security architecture that could alert policymakers, regulators, law enforcement, and other relevant authorities, and enable them to take corrective actions to prevent more serious diversion of materials.
 
 ### License
 MIT License
