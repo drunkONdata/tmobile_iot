@@ -40,14 +40,6 @@ Radioactive material transport is a major security concern. Utilizing an Arduino
 * Provides a realiable accounting method
 * Can ensemble with other data sources
 
-### Scope
-
-
-
-### Modeling
-
-
-
 ### Future Steps
 
 * Engage national and international agencies for greater nuanced understanding of metrics and KPIs that matter to their operations, planning, and policy making.
