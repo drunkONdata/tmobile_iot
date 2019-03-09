@@ -28,7 +28,7 @@ Bellvue, WA
 March 8-9, 2019 
 
 <p align="center">
-  <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F57710947%2F161679745985%2F1%2Foriginal.20190301-212705?w=800&auto=compress&rect=549%2C0%2C1980%2C990&s=4ae2b206f81d281064c8b6579eac8d6a" width="350" title="T-Mobile NB-IOT Hackathon">
+  <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F57710947%2F161679745985%2F1%2Foriginal.20190301-212705?w=800&auto=compress&rect=549%2C0%2C1980%2C990&s=4ae2b206f81d281064c8b6579eac8d6a" width="850" title="T-Mobile NB-IOT Hackathon">
 </p>
 
 ### Project Solution
@@ -82,4 +82,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 
-<p align="center"><img src="https://zdnet2.cbsistatic.com/hub/i/2017/10/30/ff180e61-bec6-4732-a1bd-22a594edf839/277c3978836443421a4ae3e115f303fa/arm-iot.jpg" width=350 title="iot"></p>
+<p align="center"><img src="https://zdnet2.cbsistatic.com/hub/i/2017/10/30/ff180e61-bec6-4732-a1bd-22a594edf839/277c3978836443421a4ae3e115f303fa/arm-iot.jpg" width=850 title="iot"></p>
