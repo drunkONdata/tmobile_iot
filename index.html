@@ -19,16 +19,16 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-2 col-md-2 col-lg-2">
-                <article class="span12"><a href="#">Nuclear Football #1</a></article>
-                <article class="span12"><a href="#">Nuclear Football #2</a></article>
-                <article class="span12"><a href="#">Nuclear Football #3</a></article>
-                <article class="span12"><a href="#">Nuclear Football #4</a></article>
-                <article class="span12"><a href="#">Nuclear Football #5</a></article>
-                <article class="span12"><a href="#">Nuclear Football #6</a></article>
-                <article class="span12"><a href="#">Nuclear Football #7</a></article>
-                <article class="span12"><a href="#">Nuclear Football MISSING</a></article>
-                <article class="span12"><a href="#">Nuclear Football #9</a></article>
-                <article class="span12"><a href="#">Nuclear Football #10</a></article>
+                <article class="span12"><a href="#">Nuclear Football #1 <br> data</a></article>
+                <article class="span12"><a href="#">Nuclear Football #2 <br> data</a></article>
+                <article class="span12"><a href="#">Nuclear Football #3 <br> data</a></article>
+                <article class="span12"><a href="#">Nuclear Football #4 <br> data</a></article>
+                <article class="span12"><a href="#">Nuclear Football #5 <br> data</a></article>
+                <article class="span12"><a href="#">Nuclear Football #6 <br> data</a></article>
+                <article class="span12"><a href="#">Nuclear Football #7 <br> data</a></article>
+                <article class="span12"><a href="#">Nuclear Football MISSING <br> data</a></article>
+                <article class="span12"><a href="#">Nuclear Football #9 <br> data</a></article>
+                <article class="span12"><a href="#">Nuclear Football #10 <br> data </a></article>
             </div>
             <div class="col-sm-9 col-md-9 col-lg-9" id='map'></div>
             <script>
@@ -40,16 +40,15 @@
                         mapTypeId: 'terrain'
                     });
 
-                    // Create a <script> tag and set the USGS URL as the source.
+                           map.data.loadGeoJson(
+                    'https://storage.googleapis.com/mapsdevsite/json/google.json');
+
+
                     var script = document.createElement('script');
-                    // This example uses a local copy of the GeoJSON stored at
-                    // http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojsonp
                     script.src = 'https://developers.google.com/maps/documentation/javascript/examples/json/earthquake_GeoJSONP.js';
                     document.getElementsByTagName('head')[0].appendChild(script);
                 }
 
-                // Loop through the results array and place a marker for each
-                // set of coordinates.
                 window.eqfeed_callback = function (results) {
                     for (var i = 0; i < results.features.length; i++) {
                         var coords = results.features[i].geometry.coordinates;
@@ -66,7 +65,7 @@
                 </script>
 </body>
 
-<footer>
+<footer class="page-footer">
     <p>© 2019 Seal Team 404</p>
 </footer>
 
